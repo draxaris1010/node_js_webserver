@@ -13,6 +13,8 @@ http.createServer((request, response) => {
             'Content-Type': 'text/plain'
          });
          response.end("404, not found");
+         console.log(request.toString() + '\n\n');
+         console.log(response.toString() + '\n\ndone\n\n');
       } else {
          // detect mime type
          magic.detectFile('.' + request.url, (error, result) => {
@@ -22,11 +24,15 @@ http.createServer((request, response) => {
                });
                response.end("500, :( check the server");
                console.log("Invalid file requested: " + "." + request.url);
+               console.log(request.toString() + '\n\n');
+               console.log(response.toString() + '\n\ndone\n\n');
             } else {
                response.writeHead(200, {
                   'Content-Type': result
                });
                response.end(data.toString());
+               console.log(request.toString() + '\n\n');
+               console.log(response.toString() + '\n\ndone\n\n');
             }
          });
       }
