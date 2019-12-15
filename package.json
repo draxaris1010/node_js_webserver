@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hi\");"
+  },
+  "author": "draxaris1010",
+  "license": "ISC"
+}
