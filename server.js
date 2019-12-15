@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/node
+#!/usr/bin/node
 const port = 8080;
 var http = require("http");
 http.createServer(function(request, response) {

@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/node
+#!/usr/bin/node
 var file = require("fs");
 
 file.readFile("server.j", (error, output) => {
