@@ -27,13 +27,15 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=5
+current_page=7
 FILE_NAME_0=0;HTML;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2Ffile.html;0;4
-FILE_NAME_1=0;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2Ffile.js;0;4
-FILE_NAME_2=0;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2FfileServer.js;0;4
-FILE_NAME_3=0;JSON;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2Fpackage.json;0;4
-FILE_NAME_4=0;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2FREADME.md;0;4
-FILE_NAME_5=424;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2Fserver.js;0;4
+FILE_NAME_1=15;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2Ffile.js;0;4
+FILE_NAME_2=657;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2FfileServer.js;0;4
+FILE_NAME_3=168;JSON;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2Fpackage.json;0;4
+FILE_NAME_4=339;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2FREADME.md;0;4
+FILE_NAME_5=15;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2Fserver.js;0;4
+FILE_NAME_6=0;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fgit%2Fnode_js_webserver%2Fmime.js;0;4
+FILE_NAME_7=164;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Faxel%2FDocuments%2Fnode.js%2Freadline.js;0;4
 
 [VTE]
 last_dir=/home/axel
