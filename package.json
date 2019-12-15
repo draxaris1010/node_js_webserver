@@ -1,10 +1,10 @@
 {
-  "name": "node",
+  "name": "node_js_webserver",
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
   "scripts": {
-    "test": "console.log(\"hi\");"
+    "test": "console.log(\"hi\");", "main": "fileServer.js"
   },
   "author": "draxaris1010",
   "license": "ISC"
