@@ -4,8 +4,13 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
-    "test": "console.log(\"hi\");", "main": ".load fileServer.js"
+    "test": "console.log('hi');",
+    "start": "node fileServer.js"
   },
   "author": "draxaris1010",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mmmagic": "^0.5.3",
+    "nan": "^2.14.2"
+  }
 }
